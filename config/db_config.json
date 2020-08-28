@@ -1,0 +1,8 @@
+{
+  "phonebook": {
+    "dbConfig": {
+      "dev_db_url": "mongodb://localhost:27017/phonebook",
+      "prod_db_url": ""
+    }
+  }
+}
